@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭   I’m currently working on Database (MS SQL)
+- 🔭   I’m currently working as Fullstack Developer
 - 🌱   I’m currently learning .NET CORE, Blazor, ML, Azure
-- 📫   Reach me: https://twitter.com/IamSundarBhai
-- ✏️   Read my blogs: https://learnwithsundar.com/
+- 📫   Reach me: Twitter- [IamSundarBhai](https://twitter.com/IamSundarBhai)
+- ✏️   Read my blogs: [Learn With Sundar](https://learnwithsundar.com/)
