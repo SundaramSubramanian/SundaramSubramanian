@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Sundaram Subramanian 👋
 
 - 🔭   I’m currently working as Fullstack Developer
 - 🌱   I’m currently learning .NET CORE, Blazor, ML, Azure
