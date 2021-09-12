@@ -14,7 +14,7 @@ I'm Sundaram Subramanian a Full Stack Web Developer and Blogger. I Spend most of
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Blazor Badge](https://img.shields.io/badge/-blazor-61DBFB?style=for-the-badge&labelColor=black&logo=blazor&logoColor=61DBFB)](#) [![.NET Core Badge](https://img.shields.io/badge/-.net%20core-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Blazor Badge](https://img.shields.io/badge/-blazor-61DBFB?style=for-the-badge&labelColor=black&logo=blazor&logoColor=61DBFB)](#) [![.NET Core Badge](https://img.shields.io/badge/-.net%20core-007acc?style=for-the-badge&labelColor=black&logo=.net&logoColor=007acc)](#) [![SQL Badge](https://img.shields.io/badge/-SQL%20Server-e535ab?style=for-the-badge&labelColor=black&logo=microsoft-sql-server&logoColor=e535ab)](#)
 
 
 #### Github Stats
