@@ -2,6 +2,8 @@
 
 I'm Sundaram Subramanian a Full Stack Web Developer and Blogger. I Spend most of time coding outstanding projects or writting articles or exploring new technologies.
 
+Resume: https://iamsundarbhai.showwcase.com/
+
 :mailbox: Reach me out!
 
 [![Twitter Badge](https://img.shields.io/badge/-@IamSundarBhai-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/IamSundarBhai)](https://twitter.com/IamSundarBhai) [![Linkedin Badge](https://img.shields.io/badge/-Sundaram%20Subramanian-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iamsundarbhai/) [![Mail Badge](https://img.shields.io/badge/-IamSundarBhai-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/iamsundarbhai/) [![Mail Badge](https://img.shields.io/badge/-Learn%20With%20Sundar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:learnwithsundar@gmail.com)
